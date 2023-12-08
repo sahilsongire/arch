@@ -30,6 +30,8 @@ Personally, if you were to ask me about my favorite Linux distribution, Arch wou
 
 For additional inspiration, check out [Unix Porn](https://www.reddit.com/r/unixporn/new/),a Reddit page filled with astonishing Linux customizations.
 
+INSTRUCTION TO INSTALL SCRIPTS.....
+
 MAKE SURE GIT IS INSTALLED 
 IF NOT....
 
