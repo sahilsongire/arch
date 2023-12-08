@@ -29,3 +29,35 @@ Personally, if you were to ask me about my favorite Linux distribution, Arch wou
 4. ![Example 4](https://github.com/sahilsongire/arch/assets/142686722/effd45ff-ec04-4542-94a5-8934076c24a0)
 
 For additional inspiration, check out [Unix Porn](https://www.reddit.com/r/unixporn/new/),a Reddit page filled with astonishing Linux customizations.
+
+MAKE SURE GIT IS INSTALLED 
+IF NOT....
+
+        sudo pacman -S git -y
+
+1. **Download the Script:**
+   Clone the repository using the following command:
+
+       git clone https://www.github.com/sahilsongire/arch
+2.Open Terminal:
+Open the terminal by pressing Ctrl+Alt+T.
+
+
+3. Navigate to the Directory:
+Use the cd command to navigate to the directory where the script was downloaded
+
+       cd /path/where/it/downloaded
+
+4.Make the Script Executable:
+Make the script executable with the following command:
+
+    chmod +x script_name.sh
+
+5.Run the Script:
+Execute the script using the following command:
+
+    ./script_name.sh
+
+Note: Modify the script_name.sh with the actual name of your script. These steps are general and may vary depending on the specific requirements of the script.
+
+INSTALL YOUR FAVOURITE APPS BY RUNNING THOSE SCRIPTS AND HAVE FUN ^w^
